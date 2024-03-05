@@ -1,4 +1,4 @@
 # website
 
-Link :  https://etanafi.github.io/
+Link :  https://etanafi.github.io/web
 
