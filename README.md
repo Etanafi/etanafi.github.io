@@ -1,4 +1,4 @@
 # Etana: Personal Website
 
-Link :  https://etanafi.github.io/web
+Links :  https://etanafi.github.io/web
 
